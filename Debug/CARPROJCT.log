@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\Mike\Desktop\CARPROJCT\CARPROJCT\main.c(12,17): warning C4273: '_errno': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stddef.h(35,27): message : see previous definition of '_errno'
+C:\Users\Mike\Desktop\CARPROJCT\CARPROJCT\main.c(488,84): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[201]'
+C:\Users\Mike\Desktop\CARPROJCT\CARPROJCT\main.c(488,52): warning C4024: 'getStringFromConsole': different types for formal and actual parameter 2
+  CARPROJCT.vcxproj -> C:\Users\Mike\Desktop\CARPROJCT\Debug\CARPROJCT.exe
