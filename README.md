@@ -1,4 +1,4 @@
-# Awesome Car Sales Program
+# Car Sales Program
 
 Welcome to the Awesome Car Sales Program! This program simulates the car sales process in an office environment. It allows customers to buy cars, view sales statistics, and check sales data within a specific range. The program also supports discount eligibility based on age and customer card status.
 
